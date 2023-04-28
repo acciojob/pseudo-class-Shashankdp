@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-p :first-child{
+div :first-child{
 	color:red;
 }
 
-p :last-child{
+div :last-child{
 	color:red;
 }
