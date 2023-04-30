@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-div :first-child{
+div span:hover{
 	color:rgb(255, 0, 0);
 }
 
-div :last-child{
+/* div :last-child{
 	color:rgb(255, 0, 0);
-}
+} */
